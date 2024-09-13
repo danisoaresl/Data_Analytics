@@ -1,2 +1,2 @@
-# Data_Analytics
- individual exercise #womakerscode
+# DataAnalytics
+Bootcamp_WoMakersCode_exercises
