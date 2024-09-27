@@ -1,1 +1,1 @@
-Exercício individual #womakerscode #dataanalytics
+#dataanalytics #womakerscode 
