@@ -1,1 +1,2 @@
-Exercício individual #womakerscode #dataanalytics
+# probabilidade_amostragem
+#dataanalytics #womakerscode
